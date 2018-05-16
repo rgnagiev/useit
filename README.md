@@ -1,0 +1,1 @@
+This is going to be a template of README for the project.
